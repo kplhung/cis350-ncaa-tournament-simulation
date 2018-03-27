@@ -1,0 +1,386 @@
+[
+  {
+    "Team": "Connecticut",
+    "Region": "Albany",
+    "Seed": 1,
+    "Elo": 2153
+  },
+  {
+    "Team": "St. Francis",
+    "Region": "Albany",
+    "Seed": 16,
+    "Elo": 1615
+  },
+  {
+    "Team": "Miami",
+    "Region": "Albany",
+    "Seed": 8,
+    "Elo": 1802
+  },
+  {
+    "Team": "Quinnipiac",
+    "Region": "Albany",
+    "Seed": 9,
+    "Elo": 1819
+  },
+  {
+    "Team": "Duke",
+    "Region": "Albany",
+    "Seed": 5,
+    "Elo": 1831
+  },
+  {
+    "Team": "Belmont",
+    "Region": "Albany",
+    "Seed": 12,
+    "Elo": 1825
+  },
+  {
+    "Team": "Georgia",
+    "Region": "Albany",
+    "Seed": 4,
+    "Elo": 1839
+  },
+  {
+    "Team": "Mercer",
+    "Region": "Albany",
+    "Seed": 13,
+    "Elo": 1841
+  },
+  {
+    "Team": "South Florida",
+    "Region": "Albany",
+    "Seed": 6,
+    "Elo": 1873
+  },
+  {
+    "Team": "Buffalo",
+    "Region": "Albany",
+    "Seed": 11,
+    "Elo": 1818
+  },
+  {
+    "Team": "Florida State",
+    "Region": "Albany",
+    "Seed": 3,
+    "Elo": 1911
+  },
+  {
+    "Team": "Little Rock",
+    "Region": "Albany",
+    "Seed": 14,
+    "Elo": 1729
+  },
+  {
+    "Team": "California",
+    "Region": "Albany",
+    "Seed": 7,
+    "Elo": 1763
+  },
+  {
+    "Team": "Virginia",
+    "Region": "Albany",
+    "Seed": 10,
+    "Elo": 1763
+  },
+  {
+    "Team": "South Carolina",
+    "Region": "Albany",
+    "Seed": 2,
+    "Elo": 2008
+  },
+  {
+    "Team": "NC A&T",
+    "Region": "Albany",
+    "Seed": 15,
+    "Elo": 1606
+  },
+  {
+    "Team": "Notre Dame",
+    "Region": "Spokane",
+    "Seed": 1,
+    "Elo": 2078
+  },
+  {
+    "Team": "Cal State Northridge",
+    "Region": "Spokane",
+    "Seed": 16,
+    "Elo": 1539
+  },
+  {
+    "Team": "South Dakota State",
+    "Region": "Spokane",
+    "Seed": 8,
+    "Elo": 1796
+  },
+  {
+    "Team": "Villanova",
+    "Region": "Spokane",
+    "Seed": 9,
+    "Elo": 1726
+  },
+  {
+    "Team": "DePaul",
+    "Region": "Spokane",
+    "Seed": 5,
+    "Elo": 1889
+  },
+  {
+    "Team": "Oklahoma",
+    "Region": "Spokane",
+    "Seed": 12,
+    "Elo": 1725
+  },
+  {
+    "Team": "Texas A&M",
+    "Region": "Spokane",
+    "Seed": 4,
+    "Elo": 1853
+  },
+  {
+    "Team": "Drake",
+    "Region": "Spokane",
+    "Seed": 13,
+    "Elo": 1778
+  },
+  {
+    "Team": "LSU",
+    "Region": "Spokane",
+    "Seed": 6,
+    "Elo": 1775
+  },
+  {
+    "Team": "Central Michigan",
+    "Region": "Spokane",
+    "Seed": 11,
+    "Elo": 1883
+  },
+  {
+    "Team": "Ohio State",
+    "Region": "Spokane",
+    "Seed": 3,
+    "Elo": 1930
+  },
+  {
+    "Team": "George Washington",
+    "Region": "Spokane",
+    "Seed": 14,
+    "Elo": 1694
+  },
+  {
+    "Team": "Green Bay",
+    "Region": "Spokane",
+    "Seed": 7,
+    "Elo": 1864
+  },
+  {
+    "Team": "Minnesota",
+    "Region": "Spokane",
+    "Seed": 10,
+    "Elo": 1777
+  },
+  {
+    "Team": "Oregon",
+    "Region": "Spokane",
+    "Seed": 2,
+    "Elo": 2007
+  },
+  {
+    "Team": "Seattle",
+    "Region": "Spokane",
+    "Seed": 15,
+    "Elo": 1493
+  },
+  {
+    "Team": "Mississippi State",
+    "Region": "Kansas City",
+    "Seed": 1,
+    "Elo": 2068
+  },
+  {
+    "Team": "Nicholls State",
+    "Region": "Kansas City",
+    "Seed": 16,
+    "Elo": 1535
+  },
+  {
+    "Team": "Syracuse",
+    "Region": "Kansas City",
+    "Seed": 8,
+    "Elo": 1766
+  },
+  {
+    "Team": "Oklahoma State",
+    "Region": "Kansas City",
+    "Seed": 9,
+    "Elo": 1714
+  },
+  {
+    "Team": "Maryland",
+    "Region": "Kansas City",
+    "Seed": 5,
+    "Elo": 1864
+  },
+  {
+    "Team": "Princeton",
+    "Region": "Kansas City",
+    "Seed": 12,
+    "Elo": 1796
+  },
+  {
+    "Team": "NC State",
+    "Region": "Kansas City",
+    "Seed": 4,
+    "Elo": 1852
+  },
+  {
+    "Team": "Elon",
+    "Region": "Kansas City",
+    "Seed": 13,
+    "Elo": 1799
+  },
+  {
+    "Team": "Iowa",
+    "Region": "Kansas City",
+    "Seed": 6,
+    "Elo": 1802
+  },
+  {
+    "Team": "Creighton",
+    "Region": "Kansas City",
+    "Seed": 11,
+    "Elo": 1700
+  },
+  {
+    "Team": "UCLA",
+    "Region": "Kansas City",
+    "Seed": 3,
+    "Elo": 1897
+  },
+  {
+    "Team": "American",
+    "Region": "Kansas City",
+    "Seed": 14,
+    "Elo": 1692
+  },
+  {
+    "Team": "Arizona State",
+    "Region": "Kansas City",
+    "Seed": 7,
+    "Elo": 1747
+  },
+  {
+    "Team": "Nebraska",
+    "Region": "Kansas City",
+    "Seed": 10,
+    "Elo": 1729
+  },
+  {
+    "Team": "Texas",
+    "Region": "Kansas City",
+    "Seed": 2,
+    "Elo": 1929
+  },
+  {
+    "Team": "Maine",
+    "Region": "Kansas City",
+    "Seed": 15,
+    "Elo": 1698
+  },
+  {
+    "Team": "Louisville",
+    "Region": "Lexington",
+    "Seed": 1,
+    "Elo": 2067
+  },
+  {
+    "Team": "Boise State",
+    "Region": "Lexington",
+    "Seed": 16,
+    "Elo": 1712
+  },
+  {
+    "Team": "Marquette",
+    "Region": "Lexington",
+    "Seed": 8,
+    "Elo": 1814
+  },
+  {
+    "Team": "Dayton",
+    "Region": "Lexington",
+    "Seed": 9,
+    "Elo": 1766
+  },
+  {
+    "Team": "Missouri",
+    "Region": "Lexington",
+    "Seed": 5,
+    "Elo": 1827
+  },
+  {
+    "Team": "Florida Gulf Coast",
+    "Region": "Lexington",
+    "Seed": 12,
+    "Elo": 1802
+  },
+  {
+    "Team": "Stanford",
+    "Region": "Lexington",
+    "Seed": 4,
+    "Elo": 1894
+  },
+  {
+    "Team": "Gonzaga",
+    "Region": "Lexington",
+    "Seed": 13,
+    "Elo": 1816
+  },
+  {
+    "Team": "Oregon State",
+    "Region": "Lexington",
+    "Seed": 6,
+    "Elo": 1879
+  },
+  {
+    "Team": "Western Kentucky",
+    "Region": "Lexington",
+    "Seed": 11,
+    "Elo": 1727
+  },
+  {
+    "Team": "Tennessee",
+    "Region": "Lexington",
+    "Seed": 3,
+    "Elo": 1855
+  },
+  {
+    "Team": "Liberty",
+    "Region": "Lexington",
+    "Seed": 14,
+    "Elo": 1638
+  },
+  {
+    "Team": "Michigan",
+    "Region": "Lexington",
+    "Seed": 7,
+    "Elo": 1749
+  },
+  {
+    "Team": "Northern Colorado",
+    "Region": "Lexington",
+    "Seed": 10,
+    "Elo": 1742
+  },
+  {
+    "Team": "Baylor",
+    "Region": "Lexington",
+    "Seed": 2,
+    "Elo": 2084
+  },
+  {
+    "Team": "Grambling State",
+    "Region": "Lexington",
+    "Seed": 15,
+    "Elo": 1506
+  }
+]
